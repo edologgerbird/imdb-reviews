@@ -55,5 +55,5 @@ Repository for the IMDB Reviews Sentiment Classifier
     positive       0.90      0.91      0.90      5021
 
     accuracy                           0.90     10000
-    macro avg       0.90      0.90      0.90     10000
-    weighted avg       0.90      0.90      0.90     10000
+    macro avg      0.90      0.90      0.90     10000
+    weighted avg   0.90      0.90      0.90     10000
